@@ -1,0 +1,7 @@
+**Komponent test**
+Till att börja med gjorde vi tester på alla komponenter separat. Detta gjordes genom enkla program för att se hur de fungerade och om de var fungerande. Efter detta började vi kombinera ihop komponenterna och skriva program för dessa, tex knapp och pir-sensorn eller buzzer och knapp. Efter vi sett att dessa fungerade som de skulle gick vi över till att koppla in alla komponenterna. Efter vi skrivit över vårt program på pycom enheten lät vi larmet va på i 2 dygn för att se att de va aktivt under denna tid och fungerade som det skulle. Vi kollade att det fungerade genom att kolla den information som enheten skickar ut.  
+
+**MQQT och telefonkompabilitet**
+Med MQQT började vi med att skicka ok signaler för enkla vilkor, detta utvigar vi sedan till att skicka signaler för vilkor för status samt avaktivering av larmet. Vi kunde se att detta fungerade som det skulle under det 2 dygn test vi gjorde, där man kan se att pycomenheten skickar ut dess status samt alarmaktiveringen.
+
+Under testerna med mobilkompabilitet testade vi flera appar, vi hade problem med att se de signaler som skickades. För att testa oss fram började vi att kolla mqtt explorer på datorn och sedan hitta en app som hade liknande funktion. Efter vi hittat en sådan app kunde vi se signalerna som skickades ut. Under vårt 2 dygns test av larmet fungerade allt som det skulle och vi kunde se informationen på mobiltelfonen.
