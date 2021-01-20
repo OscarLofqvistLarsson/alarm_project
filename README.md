@@ -9,11 +9,8 @@ Ett enkelt sätt att känna sig mer säker är att skaffa sig ett larm, det larm
 I denna kurs har vi lärt om oss hur man jobbar med IoT, hur det är använderbart och hur man kan tillämpa det. För att visa vår kunskap har vi skapat ett larm som tar information kring sig och kommunicerar ut det. Idén med ett larm tyckte vi var en intressant sätt att visa detta eftersom man ser det händer på ett bra sätt och alla delar jobbar tillsammans på ett tydligt sätt. Vi använde alla dealar av det vi ville och med 2 olika informations källor använder vi mycket av den kunskap vi fått.
 
 **Method**
-För våran metod hävisar vi till de länkar nedan som går igenom hela processen.
 
-https://gitlab.lnu.se/1dt308/student/team-13/-/blob/master/doc/test.md
-https://gitlab.lnu.se/1dt308/student/team-13/-/blob/master/doc/setup.md
-https://gitlab.lnu.se/1dt308/student/team-13/-/blob/master/doc/hardware.md
+För våran metod hävisar vi till dokumenten som finns i doc.
 
 **Results**
 
