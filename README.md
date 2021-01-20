@@ -19,6 +19,9 @@ Resultatet är bra och håller sig till de kraven vi satte, vi får med de vikti
 Vi hade kunnat förbättra vårt larm genom en bättre kommunikation med telefonen där man får en push notis via en app eller sms. Vi skulle också kunna ändra chassi till vårt larm vilket skulle gjort hela larmet mer tillgängligt och mer användbart. Vi har haft bra kommunikation mellan oss och arbetet har delats up bra. 
 
 Nedan finns bilder på det färdiga larmet samt video:
+
 https://i.imgur.com/Jxtpe0w.jpg
+
 https://i.imgur.com/4HDeEFW.jpg
+
 https://youtu.be/jzqDEA2VfgY
